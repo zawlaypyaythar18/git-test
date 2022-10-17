@@ -6,4 +6,4 @@
 
 ##### This is git Test.
 
-==this is conflict test==
+==this is git conflict test==
